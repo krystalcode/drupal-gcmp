@@ -1,0 +1,8 @@
+name: Group Commerce Marketplace
+type: module
+description: 'Provides common functionality for all Group Commerce Marketplace modules.'
+package: Group Commerce Marketplace
+core_version_requirement: ^9.0
+dependencies:
+  - commerce:commerce
+  - group:group
